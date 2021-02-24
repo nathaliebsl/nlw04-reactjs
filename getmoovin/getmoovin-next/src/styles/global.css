@@ -18,11 +18,16 @@
     --blue-dark: #4953b8;
     --blue-twitter: #2aa9e0;
 }
+@media(min-width: 1080px) {
+    html {
+        font-size: 90.75%;
+    }
+}
 
 @media(max-width: 1080px) {
 
     html {
-        font-size: 93.75%;
+        font-size: 86%;
     }
 
 }
@@ -30,7 +35,7 @@
 @media(max-width: 720px) {
 
     html {
-        font-size: 87.5%;
+        font-size: 80.5%;
     }
     img.logo {
         width: 15rem;        
@@ -55,7 +60,7 @@ a {
     text-decoration: none;
 }
 
-.container {
+/* .container {
     height: 100vh;
     max-width: 992px;
     margin: 0 auto;
@@ -63,7 +68,7 @@ a {
 
     display: flex;
     flex-direction: column;
-}
+} */
 .logo {
     width: 20rem;
 }
