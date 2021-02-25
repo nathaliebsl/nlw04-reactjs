@@ -36,7 +36,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
   useEffect(() => {
     Notification.requestPermission();
-  }, [])
+  }, []);
 
   function levelUp() {
     setLevel(level + 1);
@@ -48,9 +48,13 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
     setActiveChallenge(challenge);
 
-    if(Notification.permission === 'granted') {
-      new Notification("Novo desafio ")
-    }
+    //new Audio("/notification.mp3").play
+
+    if (Notification.permission === "granted") {
+      new Notification("Novo desafio 🎉 ", {
+        body: `Valendo ${challenge.amount} xp!`,
+      } );
+    } 
   }
 
   function resetChallenge() {
