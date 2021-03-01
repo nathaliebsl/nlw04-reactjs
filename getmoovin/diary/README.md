@@ -1,34 +1,12 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nathaliebsl/nlw04-reactjs?color=black&style=flat-square">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nathaliebsl/nlw04-reactjs?color=black&style=flat-square">
-
-  <a href="https://github.com/nathaliebsl/nlw04-react/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nathaliebsl/nlw04-reactjs?color=black&style=flat-square">
-  </a>
-
-  <a href="github.com/nathaliebsl">
-    <img alt="Feito por Nathalie Leal" src="https://img.shields.io/badge/feito%20por-Nathalie%20Leal-%231b9?color=cb6ce6&style=flat-square">
-  </a>
-
-  <br>
-
-  <a style="font-size: 50px;"  href="github.com/nathaliebsl/nlw04-reactjs/getmoovin/diary/README.md">
-    <img style="size: 100px;" alt="DIÁRIO DE BORDO - NLW04" src="https://img.shields.io/badge/-DIÁRIO%20DE%20BORDO%20NLW04-%231b9?color=cb6ce6&style=for-the-badge">
-  </a>
-
-</p>
-<h1 align="center">
-    <img  alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/getm_horizontal_logo_6d4sDxZwZ.png" />
+<h1 style="display: flex; flex-direction: row;" align="start">
+    <img  style="height: 20%; width: 40% " alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
+    <p style="position: relative; 
+    top: 80px; 
+    left: 90px;
+    font-size: 40px;
+    font-weight: 700" >#NextLevelWeek 04 - React</p>
 </h1>
 
-<h2 style="text-align: center; font-weight: 500; font-size: 30px; color: #ff5435 ;">
-<p> 🏁 TESTE A
-<a style="color: #5DD669 " href="https://getm00vin.vercel.app/ ">DEMO</a>
-🏁  </p>
-</h2>
-
----
 
                                                                   📂 O PROJETO
 

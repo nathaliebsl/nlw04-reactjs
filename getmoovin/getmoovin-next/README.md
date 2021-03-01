@@ -13,7 +13,7 @@
 
   <br>
 
-  <a style="font-size: 50px;"  href="github.com/nathaliebsl/nlw04-reactjs/getmoovin/diary/README.md">
+  <a style="font-size: 50px;"  href="https://github.com/nathaliebsl/nlw04-reactjs/blob/master/getmoovin/diary/README.md">
     <img style="size: 100px;" alt="DIÁRIO DE BORDO - NLW04" src="https://img.shields.io/badge/-DIÁRIO%20DE%20BORDO%20NLW04-%231b9?color=cb6ce6&style=for-the-badge">
   </a>
 
