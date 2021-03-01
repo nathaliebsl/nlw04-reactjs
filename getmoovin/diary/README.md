@@ -1,11 +1,10 @@
-<h1 align="center" >
-    <img  style="max-width: 10%; width: 10%; max-height: 10%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
+<h1 style="color: #5dd669" align="center" >
+    <img  style="width: ; width: 10%; max-height: 10%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
   <p style="
     margin-top: 5px;
     align: center;
     font-size: 30px;
-    color: #5dd669;
     font-weight: 700"> #NextLevelWeek 04 - React
     </p>
 
