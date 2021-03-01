@@ -1,7 +1,7 @@
 
 
 <h1 align="center" >
-    <img  style="width: 40%; position: static;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
+    <img  style="width: 25%; position: static;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
   <p style="
     align: center;
@@ -44,29 +44,42 @@
 ---
 
 <h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣2️⃣ - Desvendando o Next.JS </h2>
-<p> O primeiro dia do NLW - trilha React começou com o Diego Fernandes falando um pouco sobre o React e outras ferramentas que utilizariamos durante o dia, como Yarn e TypeScript. 
+<p> No segundo dia do NLW - trilha React o Diego transferiu o projeto React que haviamos feito no primeiro dia para um projeto Next.Js - criando um novo projeto Next do zero, e transferindo o código que era possível reaproveitar do projeto anterior. 
 </p>
-</br>
-
-### Ferramentas 🧰
-
-<ul>
-<li>Whimsical</li>
-<li>Figma</li>
-</ul>
 </br>
 
 ### Notas Pessoais 🗒️
 <ul>
-<li> Para este projeto, eu resolvi utilizar o Yarn pois é uma ferramenta que nunca tinha utilizado e foi uma boa oportunidade para aprender a usar</li>
-<li>Também novidade para mim, utilizei o TypeScript neste projeto. Como seria guiado pelo Diego, tamém entendi como uma excelente oportunidade para aprofundar mais meu conhecimento nessa linguagem</li>
-<li> O CSS também foi uma pauta que o Diego tocou bastante, e logo de cara percebi que precisaria estudar mais e aprofundar meus conhecimentos em CSS</li>
+<li> O Next.Js era uma framework que eu já havia utilizado, então tinha certa familiaridade com a criação de projetos e algumas features do next</li>
+<li>o padStart foi uma funcionalidade que eu nunca tinha trabalhado, e foi utilizado para configurar o cronometro de Countdown.</li>
 </ul>
 </br>
 
 ### Reflexões 💭
 <ul>
-<li>Adicionando aos conhecimentos em CSS, não entendi muito bem o conceito de REM (medida)</li>
+<li>Algumas configurações no Next.js como o _document.tsx e a _app.tsx page, foram novas para mim. Foi muito importante entender melhor como utilizar essas configuraçoes pois foi algo que senti falta nos projetos anteriores que fiz utilizando o Next.</li>
+<li>Ainda preciso bater na tecla do CSS, para poder tornar a minha aplicação o mais personalizada possível e nao depender tanto de bibliotecas prontas de css (o que não é ruim, mas é importante ficar mais independente) </li>
+</ul>
+</br>
+
+---
+
+<h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣3️⃣ - Contexto e Componentes </h2>
+<p> 
+</p>
+</br>
+
+### Notas Pessoais 🗒️
+<ul>
+<li> O Next.Js era uma framework que eu já havia utilizado, então tinha certa familiaridade com a criação de projetos e algumas features do next</li>
+<li>o padStart foi uma funcionalidade que eu nunca tinha trabalhado, e foi utilizado para configurar o cronometro de Countdown.</li>
+</ul>
+</br>
+
+### Reflexões 💭
+<ul>
+<li>Algumas configurações no Next.js como o _document.tsx e a _app.tsx page, foram novas para mim. Foi muito importante entender melhor como utilizar essas configuraçoes pois foi algo que senti falta nos projetos anteriores que fiz utilizando o Next.</li>
+<li>Ainda preciso bater na tecla do CSS, para poder tornar a minha aplicação o mais personalizada possível e nao depender tanto de bibliotecas prontas de css (o que não é ruim, mas é importante ficar mais independente) </li>
 </ul>
 </br>
 
