@@ -1,89 +1,75 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nathaliebsl/nlw04-reactjs?color=%2304D361&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nathaliebsl/nlw04-reactjs?color=black&style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nathaliebsl/nlw04-reactjs?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nathaliebsl/nlw04-reactjs?color=black&style=flat-square">
 
   <a href="https://github.com/nathaliebsl/nlw04-react/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nathaliebsl/nlw04-reactjs?style=for-the-badge">
-  </a>
-
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
-  
-   <a href="https://github.com/nathaliebsl/nlw04-reactjs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/nathaliebsl/nlw04-reactjs?style=for-the-badge">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nathaliebsl/nlw04-reactjs?color=black&style=flat-square">
   </a>
 
   <a href="github.com/nathaliebsl">
-    <img alt="Feito por Nathalie Leal" src="https://img.shields.io/badge/feito%20por-Nathalie%20Leal-%231b9?style=for-the-badge">
+    <img alt="Feito por Nathalie Leal" src="https://img.shields.io/badge/feito%20por-Nathalie%20Leal-%231b9?color=cb6ce6&style=flat-square">
+  </a>
+
+  <br>
+
+  <a style="font-size: 50px;"  href="github.com/nathaliebsl/nlw04-reactjs/getmoovin/diary/README.md">
+    <img style="size: 100px;" alt="DIÁRIO DE BORDO - NLW04" src="https://img.shields.io/badge/-DIÁRIO%20DE%20BORDO%20NLW04-%231b9?color=cb6ce6&style=for-the-badge">
   </a>
 
 </p>
-<h1 align="center" style="padding: 50px; background: #fff;">
-    <img alt="move.it" title="#move.it" src="https://raw.githubusercontent.com/BrunoSaibert/move.it/main/public/logo-full.svg" />
+<h1 align="center">
+    <img  alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/getm_horizontal_logo_6d4sDxZwZ.png" />
 </h1>
 
-<h4 align="center">
-	🏁  Move.it - Finalizado 🏁
-</h4>
-
-<p align="center">
- <a href="#--sobre-o-projeto">Sobre</a> •
- <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
- <a href="#--como-executar-o-projeto">Como executar</a> •
- <a href="#--tecnologias">Tecnologias</a> •
- <a href="#--autor">Autor</a> •
- <a href="#--licença">Licença</a>
-</p>
-
-![](https://raw.githubusercontent.com/BrunoSaibert/move.it/main/public/screenshot.jpg)
-
-Veja a [demonstração](https://moveit-saibert.vercel.app/).
-
-## [](https://github.com/BrunoSaibert/move.it#--sobre-o-projeto) 💻 Sobre o projeto
-
-A aplicação desenvolvida é um cronômetro para utilizar a técnica [pomodoro](https://g.co/kgs/nRFQEo) para que ao final de cada ciclo de foco, o usuário receba um desafio de um exercício, para ajudar a diminuir as chances do usuário sofre uma lesão por falta de se movimentar durante o uso prolongado do computador.
-
-O projeto foi desenvolvido durante o evento **NLW#04 - trilha de React** da [**Rocketseat**](https://rocketseat.com.br/), com o objetivo de criar uma aplicação web com React e Next.JS, em 5 aulas.
-
-Para o desenvolvimento utilizamos **ReactJS** e **Next.js** com **TypeScript**.
+<h2 style="text-align: center; font-weight: 500; font-size: 30px; color: #ff5435 ;">
+<p> 🏁 TESTE A
+<a style="color: #5DD669 " href="https://getm00vin.vercel.app/ ">DEMO</a>
+🏁  </p>
+</h2>
 
 ---
 
-## [](https://github.com/BrunoSaibert/move.it#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
+                                                                  📂 O PROJETO
 
-Ao acessar a aplicação é solicitada uma permissão para enviar notificações para o usuário com a finalidade de informar o final de cada ciclo.
+A aplicação getm00vin foi criada com o objetivo de ser uma ferramenta de time-management (administração de tempo), utilizando a [Técnica Pomodoro](https://cutt.ly/YlXPJ8E) criando ciclos de 25 minutos - cliclo de foco - e ciclos de pausa onde, a cada ciclo de foco encerrado, o usuário recebe um exercício/desafio para minimizar os danos que estar tanto tempo sentado/na frente do computador causam. A cada desafio completo, o ciclo de foco reinicia e o usúário é bonificado por pontos.
 
-O usuário pode iniciar um ciclo de foco, quando o contador chega a zero, um alerta sonoro é emitido, além de uma notificação do navegador (caso o usuário tenha aceito as permissões). 
+Este projeto foi desenvolvido durante a semana **Next Level Week #04** da [**Rocketseat**](https://rocketseat.com.br/), na _Trilha de React_.
 
-Além disso, é informada uma pontuação e um desafio para que o usuário realize durante o seu intervalo do pomodoro, onde o usuário deve informar se conseguiu ou não efetuar o desafio proposto.
+<!-- --- -->
+<!--
+                                                              🎯 Funcionalidades
 
-Ao informar que o desafio foi concluído, a pontuação prevista é somada no seu total de pontos e o total de desafios concluídos é atualizado.
-
-Caso o total de pontos seja suficiente para avançar de nível, uma modal é exibida com o novo nível do usuário. Um novo total para o próximo nível é informado na barra de progresso e a pontuação remanescente é acrescentada na mesma barra.
-
-Ao atualizar a página, as informações de nível são recuperadas do Cookie
+** Quando pronto, add os Gifs animados da aplicação. -->
 
 ---
 
-## [](https://github.com/BrunoSaibert/move.it#--como-executar-o-projeto) 🚀 Como executar o projeto
+                                                          🧰  Instalação e Execução
 
-### Pré-requisitos
+### ✅ Pré-Requisitos:
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+</br>
 
-#### 🧭 Rodando a aplicação
+### [Node.js](https://nodejs.org/en/) instalado na sua máquina.
 
-```bash
+### Fontes:
 
-# Clone este repositório
-$ git clone git@github.com:BrunoSaibert/move.it.git
+- Fonte principal: **[Inter](https://fonts.google.com/specimen/Inter)**
+- Fonte do contador: **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**
 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd move.it
+</br>
 
-# Instale as dependências
+### 🚀 Executando a aplicação
+
+```console
+
+# Clone o repositório abaixo na sua pasta de preferência
+$ git clone https://github.com/nathaliebsl/nlw04-reactjs
+
+# Acesse a pasta do projeto
+$ cd getmoovin/getmoovin-next
+
+# Instale as dependências com
 $ npm install
 # ou
 $ yarn
@@ -93,13 +79,15 @@ $ npm run dev
 # ou
 $ yarn dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação vai rodar em: http://localhost:3000
 
 ```
 
+Essa aplicação foi desenvolvida no [VSCode](https://code.visualstudio.com/).
+
 ---
 
-## [](https://github.com/BrunoSaibert/move.it#--tecnologias) 🛠 Tecnologias
+                                                                  🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -107,36 +95,32 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[js-cookie](https://github.com/js-cookie/js-cookie#readme)**
 
-> Veja o arquivo [package.json](https://github.com/BrunoSaibert/move.it/blob/main/package.json)
+</br>
 
-#### **Utilitários**
+#### **Hospedagem**
 
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-- Fonte geral: **[Inter](https://fonts.google.com/specimen/Inter)**
-- Fonte contador: **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**
-- Gerar README: **[Markeditor](https://markeditor.netlify.app/)**
-
-#### **Hospedagem** (**[Vercel](https://vercel.com/)**)
+- **[Vercel](https://vercel.com/)**
 
 ---
 
-## [](https://github.com/BrunoSaibert/move.it#--autor) 👨‍🚀 Autor
+                                                                        👩‍💻 Creator 
 
-<a href="https://brunosaibert.com.br/">
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/40339324?s=460&u=4f5a7b83aa4e018b4eccbeaa1f6a6b8b04e0e4b7&v=4" width="100px;" alt="Bruno Henrique Saibert"/>
+<div>
+<a href="github.com/nathaliebsl">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75685745?v=4" width="100px;" alt="Nathalie Leal"/>
  <br />
- <sub><b>Bruno Henrique Saibert</b></sub></a>
- <br />
+ <sub><b>Nathalie Leal</b></sub></a>
 
-Feito com ❤️ por Bruno Henrique Saibert 👋 Entre em contato!
+<sub><b>@nathaliebsl</b></sub>
+<br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohenriquesaibert/)](https://www.linkedin.com/in/brunohenriquesaibert/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bh_saibert)](https://twitter.com/bh_saibert)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)](https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunosaibert@gmail.com)](mailto:brunosaibert@gmail.com)
+<a style="text-align: center; justify-content: center; align-content: center;" >
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaliebsl/)](https://www.linkedin.com/in/nathaliebsl/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bslnathalie@gmail.com)](mailto:bslnathalie@gmail.com)
 
-## [](https://github.com/BrunoSaibert/move.it#--licença) 📝 Licença
+</a>
 
-Este projeto esta sobe a licença MIT.
+Made with 💜 </br>
+
+</div>
