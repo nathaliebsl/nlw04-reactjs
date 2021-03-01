@@ -1,5 +1,5 @@
 <h1 align="center" >
-    <img  style="max-width: 25%; width: 25%; height: 25%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
+    <img  style="max-width: 10%; width: 10%; max-height: 10%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
   <p style="
     margin-top: 5px;
