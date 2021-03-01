@@ -22,7 +22,7 @@
     <img  alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/getm_horizontal_logo_6d4sDxZwZ.png" />
 </h1>
 
-<h2 style="text-align: center; font-weight: 500; font-size: 30px; color: #ff5435 ;">
+<h2 align="center" style="text-align: center; font-weight: 500; font-size: 30px; color: #ff5435 ;">
 <p> 🏁 TESTE A
 <a style="color: #5DD669 " href="https://getm00vin.vercel.app/ ">DEMO</a>
 🏁  </p>
@@ -30,7 +30,7 @@
 
 ---
 
-                                                                  📂 O PROJETO
+                                                      📂 O PROJETO
 
 A aplicação getm00vin foi criada com o objetivo de ser uma ferramenta de time-management (administração de tempo), utilizando a [Técnica Pomodoro](https://cutt.ly/YlXPJ8E) criando ciclos de 25 minutos - cliclo de foco - e ciclos de pausa onde, a cada ciclo de foco encerrado, o usuário recebe um exercício/desafio para minimizar os danos que estar tanto tempo sentado/na frente do computador causam. A cada desafio completo, o ciclo de foco reinicia e o usúário é bonificado por pontos.
 
@@ -38,13 +38,13 @@ Este projeto foi desenvolvido durante a semana **Next Level Week #04** da [**Roc
 
 <!-- --- -->
 <!--
-                                                              🎯 Funcionalidades
+                                                    🎯 Funcionalidades
 
 ** Quando pronto, add os Gifs animados da aplicação. -->
 
 ---
 
-                                                          🧰  Instalação e Execução
+                                                  🧰  Instalação e Execução
 
 ### ✅ Pré-Requisitos:
 
@@ -87,7 +87,7 @@ Essa aplicação foi desenvolvida no [VSCode](https://code.visualstudio.com/).
 
 ---
 
-                                                                  🛠 Tecnologias
+                                                    🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -103,7 +103,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-                                                                        👩‍💻 Creator 
+                                                        👩‍💻 Creator 
 
 <div>
 <a href="github.com/nathaliebsl">
