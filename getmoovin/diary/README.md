@@ -1,17 +1,15 @@
-<h1 style="background: white" align="center" >
+<h1 align="center" >
     <img  width="150px" style="height: auto;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
   <p style="
     margin-top: 5px;
     align: center;
+    color: lightgreen;
     font-size: 30px;
-    color: #5dd669;
-    background: white;
     font-weight: 700"> #NextLevelWeek 04 - React
     </p>
 </h1>
 
-<div>
 
 <h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣1️⃣ - Fundamentos do React </h2>
 <p> O primeiro dia do NLW - trilha React começou com o Diego Fernandes falando um pouco sobre o React e outras ferramentas que utilizariamos durante o dia, como Yarn e TypeScript. 
@@ -169,5 +167,3 @@
 </a>
 
 Made with 💜 </br>
-
-</div>
