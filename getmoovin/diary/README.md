@@ -1,89 +1,81 @@
-<h1 style="display: flex; flex-direction: row;" align="start">
-    <img  style="height: 20%; width: 40% " alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
-    <p style="position: relative; 
-    top: 80px; 
-    left: 90px;
-    font-size: 40px;
-    font-weight: 700" >#NextLevelWeek 04 - React</p>
-</h1>
 
 
-                                                                  📂 O PROJETO
+<h1 align="center" >
+    <img  style="width: 40%; position: static;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
-A aplicação getm00vin foi criada com o objetivo de ser uma ferramenta de time-management (administração de tempo), utilizando a [Técnica Pomodoro](https://cutt.ly/YlXPJ8E) criando ciclos de 25 minutos - cliclo de foco - e ciclos de pausa onde, a cada ciclo de foco encerrado, o usuário recebe um exercício/desafio para minimizar os danos que estar tanto tempo sentado/na frente do computador causam. A cada desafio completo, o ciclo de foco reinicia e o usúário é bonificado por pontos.
+  <p style="
+    align: center;
+    font-size: 30px;
+    color: #5dd669;
+    font-weight: 700"> #NextLevelWeek 04 - React
+    </p>
 
-Este projeto foi desenvolvido durante a semana **Next Level Week #04** da [**Rocketseat**](https://rocketseat.com.br/), na _Trilha de React_.
+  </h1>
 
-<!-- --- -->
-<!--
-                                                              🎯 Funcionalidades
+<div style="position: relative">
 
-** Quando pronto, add os Gifs animados da aplicação. -->
+<h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣1️⃣ - Fundamentos do React </h2>
+<p> O primeiro dia do NLW - trilha React começou com o Diego Fernandes falando um pouco sobre o React e outras ferramentas que utilizariamos durante o dia, como Yarn e TypeScript. 
+</p>
+</br>
+
+### Ferramentas 🧰
+
+<ul>
+<li>Whimsical</li>
+<li>Figma</li>
+</ul>
+</br>
+
+### Notas Pessoais 🗒️
+<ul>
+<li> Para este projeto, eu resolvi utilizar o Yarn pois é uma ferramenta que nunca tinha utilizado e foi uma boa oportunidade para aprender a usar</li>
+<li>Também novidade para mim, utilizei o TypeScript neste projeto. Como seria guiado pelo Diego, tamém entendi como uma excelente oportunidade para aprofundar mais meu conhecimento nessa linguagem</li>
+<li> O CSS também foi uma pauta que o Diego tocou bastante, e logo de cara percebi que precisaria estudar mais e aprofundar meus conhecimentos em CSS</li>
+</ul>
+</br>
+
+### Reflexões 💭
+<ul>
+<li>Adicionando aos conhecimentos em CSS, não entendi muito bem o conceito de REM (medida)</li>
+</ul>
+</br>
 
 ---
 
-                                                          🧰  Instalação e Execução
-
-### ✅ Pré-Requisitos:
-
+<h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣2️⃣ - Desvendando o Next.JS </h2>
+<p> O primeiro dia do NLW - trilha React começou com o Diego Fernandes falando um pouco sobre o React e outras ferramentas que utilizariamos durante o dia, como Yarn e TypeScript. 
+</p>
 </br>
 
-### [Node.js](https://nodejs.org/en/) instalado na sua máquina.
+### Ferramentas 🧰
 
-### Fontes:
-
-- Fonte principal: **[Inter](https://fonts.google.com/specimen/Inter)**
-- Fonte do contador: **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**
-
+<ul>
+<li>Whimsical</li>
+<li>Figma</li>
+</ul>
 </br>
 
-### 🚀 Executando a aplicação
+### Notas Pessoais 🗒️
+<ul>
+<li> Para este projeto, eu resolvi utilizar o Yarn pois é uma ferramenta que nunca tinha utilizado e foi uma boa oportunidade para aprender a usar</li>
+<li>Também novidade para mim, utilizei o TypeScript neste projeto. Como seria guiado pelo Diego, tamém entendi como uma excelente oportunidade para aprofundar mais meu conhecimento nessa linguagem</li>
+<li> O CSS também foi uma pauta que o Diego tocou bastante, e logo de cara percebi que precisaria estudar mais e aprofundar meus conhecimentos em CSS</li>
+</ul>
+</br>
 
-```console
-
-# Clone o repositório abaixo na sua pasta de preferência
-$ git clone https://github.com/nathaliebsl/nlw04-reactjs
-
-# Acesse a pasta do projeto
-$ cd getmoovin/getmoovin-next
-
-# Instale as dependências com
-$ npm install
-# ou
-$ yarn
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
-# ou
-$ yarn dev
-
-# A aplicação vai rodar em: http://localhost:3000
-
-```
-
-Essa aplicação foi desenvolvida no [VSCode](https://code.visualstudio.com/).
+### Reflexões 💭
+<ul>
+<li>Adicionando aos conhecimentos em CSS, não entendi muito bem o conceito de REM (medida)</li>
+</ul>
+</br>
 
 ---
 
-                                                                  🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+                                                        👩‍💻 Creator 
 
-#### **Aplicação** (**[React](https://reactjs.org/)** + **[Next.js](https://nextjs.org/)** + **[TypeScript](https://www.typescriptlang.org/)**)
 
-- **[js-cookie](https://github.com/js-cookie/js-cookie#readme)**
-
-</br>
-
-#### **Hospedagem**
-
-- **[Vercel](https://vercel.com/)**
-
----
-
-                                                                        👩‍💻 Creator 
-
-<div>
 <a href="github.com/nathaliebsl">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75685745?v=4" width="100px;" alt="Nathalie Leal"/>
  <br />
