@@ -26,6 +26,8 @@
 <p> 🏁 TESTE A
 <a style="color: #5DD669 " href="https://getm00vin.vercel.app/ ">DEMO</a>
 🏁  </p>
+</br>
+<p style="font-size: 15px">🚧 Aplicação em construção 🚧</p>
 </h2>
 
 ---
@@ -35,6 +37,8 @@
 A aplicação getm00vin foi criada com o objetivo de ser uma ferramenta de time-management (administração de tempo), utilizando a [Técnica Pomodoro](https://cutt.ly/YlXPJ8E) criando ciclos de 25 minutos - cliclo de foco - e ciclos de pausa onde, a cada ciclo de foco encerrado, o usuário recebe um exercício/desafio para minimizar os danos que estar tanto tempo sentado/na frente do computador causam. A cada desafio completo, o ciclo de foco reinicia e o usúário é bonificado por pontos.
 
 Este projeto foi desenvolvido durante a semana **Next Level Week #04** da [**Rocketseat**](https://rocketseat.com.br/), na _Trilha de React_.
+
+
 
 <!-- --- -->
 <!--
