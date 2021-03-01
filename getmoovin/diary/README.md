@@ -1,9 +1,8 @@
-
-
 <h1 align="center" >
-    <img  style="width: 25%; position: static;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
+    <img  style="width: 25%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
   <p style="
+  margin-top: 5px;
     align: center;
     font-size: 30px;
     color: #5dd669;
@@ -12,7 +11,7 @@
 
   </h1>
 
-<div style="position: relative">
+<div>
 
 <h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣1️⃣ - Fundamentos do React </h2>
 <p> O primeiro dia do NLW - trilha React começou com o Diego Fernandes falando um pouco sobre o React e outras ferramentas que utilizariamos durante o dia, como Yarn e TypeScript. 
@@ -28,6 +27,7 @@
 </br>
 
 ### Notas Pessoais 🗒️
+
 <ul>
 <li> Para este projeto, eu resolvi utilizar o Yarn pois é uma ferramenta que nunca tinha utilizado e foi uma boa oportunidade para aprender a usar</li>
 <li>Também novidade para mim, utilizei o TypeScript neste projeto. Como seria guiado pelo Diego, tamém entendi como uma excelente oportunidade para aprofundar mais meu conhecimento nessa linguagem</li>
@@ -36,6 +36,7 @@
 </br>
 
 ### Reflexões 💭
+
 <ul>
 <li>Adicionando aos conhecimentos em CSS, não entendi muito bem o conceito de REM (medida)</li>
 </ul>
@@ -49,6 +50,7 @@
 </br>
 
 ### Notas Pessoais 🗒️
+
 <ul>
 <li> O Next.Js era uma framework que eu já havia utilizado, então tinha certa familiaridade com a criação de projetos e algumas features do next</li>
 <li>o padStart foi uma funcionalidade que eu nunca tinha trabalhado, e foi utilizado para configurar o cronometro de Countdown.</li>
@@ -56,6 +58,7 @@
 </br>
 
 ### Reflexões 💭
+
 <ul>
 <li>Algumas configurações no Next.js como o _document.tsx e a _app.tsx page, foram novas para mim. Foi muito importante entender melhor como utilizar essas configuraçoes pois foi algo que senti falta nos projetos anteriores que fiz utilizando o Next.</li>
 <li>Ainda preciso bater na tecla do CSS, para poder tornar a minha aplicação o mais personalizada possível e nao depender tanto de bibliotecas prontas de css (o que não é ruim, mas é importante ficar mais independente) </li>
@@ -65,29 +68,54 @@
 ---
 
 <h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣3️⃣ - Contexto e Componentes </h2>
-<p> 
+<p> No terceiro dia do NLW continuamos a construçao da nossa aplicação adicionando mais componentes e introduzindo a Context API no projeto.
 </p>
 </br>
 
 ### Notas Pessoais 🗒️
+
 <ul>
-<li> O Next.Js era uma framework que eu já havia utilizado, então tinha certa familiaridade com a criação de projetos e algumas features do next</li>
-<li>o padStart foi uma funcionalidade que eu nunca tinha trabalhado, e foi utilizado para configurar o cronometro de Countdown.</li>
+<li> A Context API era uma api que eu não tinha utilizado muito ainda e foi muito importante aprofundar meu conhecimento nessa ferramenta que é essencial em aplicações que contenham componentes que precisem compartilhar conteúdo.</li>
+<li> Criamos a ChallengesContext para poder compartilhar funcionalidades entre componentes.</li>
+<li>utilizamos um arquivo json externo para transpassar o conteúdo das challenges pro projeto</li>
+<li>Introduçao do Provider e aprofundamento de conhecimentos sobre Interface(types)</li>
 </ul>
 </br>
 
 ### Reflexões 💭
+
 <ul>
-<li>Algumas configurações no Next.js como o _document.tsx e a _app.tsx page, foram novas para mim. Foi muito importante entender melhor como utilizar essas configuraçoes pois foi algo que senti falta nos projetos anteriores que fiz utilizando o Next.</li>
-<li>Ainda preciso bater na tecla do CSS, para poder tornar a minha aplicação o mais personalizada possível e nao depender tanto de bibliotecas prontas de css (o que não é ruim, mas é importante ficar mais independente) </li>
+<li> Saber quando utilizar o Redux e Context API. Acredito que a Context API é uma ferramenta mais atual e completa, mais simples de utilizar</li>
 </ul>
 </br>
 
 ---
 
+<h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣4️⃣ - Melhorando a usabilidade da aplicação </h2>
+<p> No terceiro dia do NLW continuamos a construçao da nossa aplicação adicionando mais componentes e introduzindo a Context API no projeto.
+</p>
+</br>
 
-                                                        👩‍💻 Creator 
+### Notas Pessoais 🗒️
 
+<ul>
+<li> A Context API era uma api que eu não tinha utilizado muito ainda e foi muito importante aprofundar meu conhecimento nessa ferramenta que é essencial em aplicações que contenham componentes que precisem compartilhar conteúdo.</li>
+<li> Criamos a ChallengesContext para poder compartilhar funcionalidades entre componentes.</li>
+<li>utilizamos um arquivo json externo para transpassar o conteúdo das challenges pro projeto</li>
+<li>Introduçao do Provider e aprofundamento de conhecimentos sobre Interface(types)</li>
+</ul>
+</br>
+
+### Reflexões 💭
+
+<ul>
+<li> Saber quando utilizar o Redux e Context API. Acredito que a Context API é uma ferramenta mais atual e completa, mais simples de utilizar</li>
+</ul>
+</br>
+
+---
+
+                                                        👩‍💻 Creator
 
 <a href="github.com/nathaliebsl">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75685745?v=4" width="100px;" alt="Nathalie Leal"/>
