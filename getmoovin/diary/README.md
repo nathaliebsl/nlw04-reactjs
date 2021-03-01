@@ -1,8 +1,8 @@
 <h1 align="center" >
-    <img  style="width: 25%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
+    <img  style="max-width: 25%; width: 25%; height: 25%;" alt="getm00vin" title="getm00vin" src="https://ik.imagekit.io/n47h4L13/getm00vin/Screen_Shot_2021-03-01_at_4.45.30_PM_BIbNg7vDT.png" />
 
   <p style="
-  margin-top: 5px;
+    margin-top: 5px;
     align: center;
     font-size: 30px;
     color: #5dd669;
@@ -92,26 +92,62 @@
 ---
 
 <h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣4️⃣ - Melhorando a usabilidade da aplicação </h2>
-<p> No terceiro dia do NLW continuamos a construçao da nossa aplicação adicionando mais componentes e introduzindo a Context API no projeto.
+<p> No quarto dia de NLW, aprofundamos um pouco mais os conceitos de Context API, e utilizamos React Hooks.
 </p>
 </br>
 
 ### Notas Pessoais 🗒️
 
 <ul>
-<li> A Context API era uma api que eu não tinha utilizado muito ainda e foi muito importante aprofundar meu conhecimento nessa ferramenta que é essencial em aplicações que contenham componentes que precisem compartilhar conteúdo.</li>
-<li> Criamos a ChallengesContext para poder compartilhar funcionalidades entre componentes.</li>
-<li>utilizamos um arquivo json externo para transpassar o conteúdo das challenges pro projeto</li>
-<li>Introduçao do Provider e aprofundamento de conhecimentos sobre Interface(types)</li>
+<li> Aprofundamos conhecimento dos React Hooks.</li>
+<li>Criamos uma notificaçao para o usuário utilizando o Notification, com alerts e Audio. </li>
 </ul>
 </br>
 
 ### Reflexões 💭
 
 <ul>
-<li> Saber quando utilizar o Redux e Context API. Acredito que a Context API é uma ferramenta mais atual e completa, mais simples de utilizar</li>
+<li> Os React Hooks são essenciais para aplicaçoes React. É muito necessário absorver esse conteúdo muito bem pra poder utilizar em aplicaçoes futuras.</li>
 </ul>
 </br>
+
+---
+
+<h2 align="center" style="font-weight: 700; font-size: 30px" > Day #️⃣5️⃣ - Próximo Nível com React </h2>
+<p> Quinto e último dia do NLW 04. Esse dia foi utilizado para finalizar o projeto e lançar desafios para que nós possamos aprimorar a aplicação e ir para o "próximo nível".
+</p>
+</br>
+
+### Ferramentas 🧰
+
+<ul>
+<li>Vercel</li>
+</ul>
+</br>
+
+### Notas Pessoais 🗒️
+
+<ul>
+<li> Adicionamos funcionalidades utilizando os Cookies do navegador - adicionando o pacote js-cookie - (assim conseguimos salvar o progresso do usuário no app getm00vin) com os comandos de armazenamento de cookies inclusos nesse pacote. </li>
+<li> Aprendemos mais sobre o getServerSideProps e como utilizar essa ferramenta do Next </li>
+<li> Criamos um modal customizado para a aplicação, ele aparece na tela quando o user sobre de nível na aplicação </li>
+<li>Fizemos o deploy da App utilizando a ferramenta de deploy <strong><a href="http://vercel.com">Vercel</a></strong></li>
+</ul>
+</br>
+
+### Desafios 🆙
+
+<ul>
+<li>Melhorar/Personalizar estilização do APP</li>
+<li>Documentação do projeto</li>
+<li>Tornar a Aplicação resposiva (mobile, web)</li>
+<li>Add funcionalidade de PWA na App></li>
+<li>Criar uma Home onde o User pode logar com GitHub</li>
+<li>Entender onde podemos utilizar o Serverless c/ React e Next nessa Aplicação</li>
+
+</ul>
+</br>
+
 
 ---
 
