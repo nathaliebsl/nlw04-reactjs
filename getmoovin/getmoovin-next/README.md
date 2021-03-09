@@ -30,7 +30,6 @@
 <p style="font-size: 15px">🚧 Aplicação em construção 🚧</p>
 </h2>
 
----
 
                                                       📂 O PROJETO
 
